@@ -27,7 +27,7 @@ const App = () => {
     return(
         
         <>
-            <Router basename={'/ReactWeb'}> 
+            <Router basename={'/CYBORG'}> 
                 <Header /> 
                 <Container>
 
